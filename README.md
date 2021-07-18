@@ -2,7 +2,7 @@
 
 This is the 0.0.1 version.
 
-For the moment, you manipulate onely local scv, and onely by a cli.
+For the moment, you manipulate only local scv, and onely by a cli.
 
 If it doesn't work, install and upgrade php. 
 
