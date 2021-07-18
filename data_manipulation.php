@@ -145,11 +145,3 @@
       echo"\n";
     }
   }
-
-
-  // Définir le chemin d'accès au fichier CSV
-// $csv = 'test.csv';
-// $csv = read($csv);
-// $csv = line_by_range($csv);
-// tableau($csv);
-// save($csv, "coucou.csv");
